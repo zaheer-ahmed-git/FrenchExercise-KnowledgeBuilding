@@ -1,0 +1,4 @@
+azure-storage-blob>=12.24
+pymongo>=4.10
+python-dotenv>=1.0
+requests>=2.32
